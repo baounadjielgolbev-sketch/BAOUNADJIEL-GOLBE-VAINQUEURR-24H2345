@@ -1,0 +1,11 @@
+ID,Date,Catégorie,Sous_Catégorie,Quantité,Unité,Notes
+1,2024-03-01,Bénévolat,Préparation du sol,4.5,h,Nettoyage de printemps avec l'équipe complète
+2,2024-03-15,Bénévolat,Plantation,3.0,h,Semis de tomates et radis
+3,2024-03-20,Eau,Arrosage Manuel,25.0,L,Arrosage après les semis
+4,2024-04-05,Eau,Pluie (Récupération),120.0,L,Cuves remplies suite aux averses
+5,2024-04-10,Récolte,Radis,1.2,kg,Très beaux radis roses
+6,2024-04-12,Bénévolat,Entretien,2.0,h,Désherbage bacs 1 et 2
+7,2024-04-18,Récolte,Salades,2.5,kg,Récolte de laitues pour le quartier
+8,2024-04-20,Eau,Goutte à goutte,40.0,L,Arrosage régulier
+9,2024-04-24,Récolte,Radis,0.8,kg,Fin de la première vague
+10,2024-04-25,Bénévolat,Animation,2.0,h,Visite des enfants de l'école primaire
